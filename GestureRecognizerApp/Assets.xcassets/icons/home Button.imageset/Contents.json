@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "%E2%80%94Pngtree%E2%80%94blue%20translucent%20blisters%20round%20button_4378005.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
