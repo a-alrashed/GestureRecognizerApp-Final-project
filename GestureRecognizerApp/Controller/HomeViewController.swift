@@ -160,7 +160,7 @@ class HomeViewController: UIViewController {
     
     @IBOutlet var navigationImages: [UIImageView]!
     
-    @IBAction func handlePanGestur(_ sender: UIPanGestureRecognizer) {
+    @IBAction func handlePanGesture(_ sender: UIPanGestureRecognizer) {
         let translation = sender.translation(in: navigationView)
         let navigationViewOriginalCenterPoint = navigationView.center
         
